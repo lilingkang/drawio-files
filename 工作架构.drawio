@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T07:04:25.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="QbucOzDCp1UaQ5k9U2cN" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-15T07:12:41.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="HcaROju_Pb5mMRNX8KFY" version="20.4.1" type="github">
   <diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">
     <mxGraphModel dx="1106" dy="734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,6 +87,33 @@
         </mxCell>
         <mxCell id="maDJqcjo1r75fHRdNXrU-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;精英&lt;br&gt;存档&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="200" y="502" width="59.5" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="maDJqcjo1r75fHRdNXrU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="maDJqcjo1r75fHRdNXrU-45" target="maDJqcjo1r75fHRdNXrU-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="maDJqcjo1r75fHRdNXrU-45" value="基本问题" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="617" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="maDJqcjo1r75fHRdNXrU-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="maDJqcjo1r75fHRdNXrU-46" target="maDJqcjo1r75fHRdNXrU-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="maDJqcjo1r75fHRdNXrU-46" value="场景完善" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="211" y="617" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="maDJqcjo1r75fHRdNXrU-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="maDJqcjo1r75fHRdNXrU-48" target="maDJqcjo1r75fHRdNXrU-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="maDJqcjo1r75fHRdNXrU-48" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="355" y="617" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="maDJqcjo1r75fHRdNXrU-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="maDJqcjo1r75fHRdNXrU-49" target="maDJqcjo1r75fHRdNXrU-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="maDJqcjo1r75fHRdNXrU-49" value="模型求解" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="499" y="617" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="maDJqcjo1r75fHRdNXrU-50" value="性能优化" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="639" y="617" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
