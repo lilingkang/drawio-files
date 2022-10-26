@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T06:54:25.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="-wKOD4OHnpPDHqbuR3Jf" version="20.4.1" type="github"><diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">ddHNDoMgDADgp+GukMzt7P4uO3nYmUgnJGgNdtHt6acBdcTtRPlaCC1M5PVwcbLVN1RgGU/UwMSRcZ6mu3RcJnl5ybIAlTPKU7JCYd4QTs76NAq6YJ4I0ZJpYyyxaaCkyKRz2MdlD7QqglZWsIGilHard6NIe93zbPUrmErT0vDBZ2o5F4dOOi0V9l8kTkzkDpF8VA852Gl48VzOf7LLwxw09OPAGKx3j5voh8TpAw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-26T06:57:05.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="ckM7FKl4BUJugzJreU3P" version="20.4.1" type="github">
+  <diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">
+    <mxGraphModel dx="1161" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kbpKK3pgfdMBsr8jD9NZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="kbpKK3pgfdMBsr8jD9NZ-1" target="kbpKK3pgfdMBsr8jD9NZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbpKK3pgfdMBsr8jD9NZ-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;远端散热器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="371" y="203" width="101" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="kbpKK3pgfdMBsr8jD9NZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="kbpKK3pgfdMBsr8jD9NZ-2" target="kbpKK3pgfdMBsr8jD9NZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="543" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbpKK3pgfdMBsr8jD9NZ-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;水泵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="492" y="323" width="101" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="kbpKK3pgfdMBsr8jD9NZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="kbpKK3pgfdMBsr8jD9NZ-3" target="kbpKK3pgfdMBsr8jD9NZ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="454" />
+              <mxPoint x="292" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbpKK3pgfdMBsr8jD9NZ-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;冷头&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="371" y="425" width="101" height="58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
