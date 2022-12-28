@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T03:13:31.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="8CbMN6oZOby-JS21nXko" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T03:23:29.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="pQWaVmX32P7OFca42eT-" version="20.7.4" type="github">
   <diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">
     <mxGraphModel dx="670" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,6 +28,9 @@
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-5" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="20" width="440" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-13" value="技&lt;br&gt;术&lt;br&gt;研&lt;br&gt;究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=right;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="210" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-6" value="AMR数字孪生模型的柔性重构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="60" width="180" height="30" as="geometry" />
         </mxCell>
@@ -36,9 +39,6 @@
         </mxCell>
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-8" value="AMR多任务场景服役状态可视化、关键性能动态实时仿真分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="230" y="140" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TVr60Wt9lXtjHCnUE2Si-13" value="技&lt;br&gt;术&lt;br&gt;研&lt;br&gt;究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=right;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="220" y="50" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-15" value="软&lt;br&gt;硬&lt;br&gt;件&lt;br&gt;开&lt;br&gt;发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=right;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="440" y="50" width="200" height="130" as="geometry" />
