@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T13:02:17.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="3ragjs60dMaWPu5xt75h" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T13:58:32.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="by8wfqc5Q9ir5H-09Rts" version="20.7.4" type="github">
   <diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">
-    <mxGraphModel dx="670" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,17 +49,88 @@
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-17" value="&lt;div style=&quot;font-size: medium;&quot;&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-size: 12px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;AMR&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;数字孪生仿真环境&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TVr60Wt9lXtjHCnUE2Si-19" value="研究内容①" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="160" height="200" as="geometry" />
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-19" value="研究内容①" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;verticalAlign=top;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="300" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="TVr60Wt9lXtjHCnUE2Si-20" value="研究内容②" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="210" y="260" width="160" height="200" as="geometry" />
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-22" value="快速构建" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;verticalAlign=top;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TVr60Wt9lXtjHCnUE2Si-21" value="研究内容③" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="160" height="200" as="geometry" />
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-23" value="柔性重构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;verticalAlign=top;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TVr60Wt9lXtjHCnUE2Si-22" value="快速构建" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="140" height="60" as="geometry" />
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="TVr60Wt9lXtjHCnUE2Si-24" target="TVr60Wt9lXtjHCnUE2Si-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-24" value="案例库" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="65" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="TVr60Wt9lXtjHCnUE2Si-25" target="TVr60Wt9lXtjHCnUE2Si-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-25" value="需求" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="65" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TVr60Wt9lXtjHCnUE2Si-24" target="TVr60Wt9lXtjHCnUE2Si-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-34" value="模块&lt;br&gt;拆分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;labelBackgroundColor=#dbe8fb;" vertex="1" connectable="0" parent="TVr60Wt9lXtjHCnUE2Si-33">
+          <mxGeometry x="-0.223" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=11;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TVr60Wt9lXtjHCnUE2Si-28" target="TVr60Wt9lXtjHCnUE2Si-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-40" value="需求&lt;br&gt;变更" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;labelBackgroundColor=#dbe8fb;" vertex="1" connectable="0" parent="TVr60Wt9lXtjHCnUE2Si-39">
+          <mxGeometry x="-0.1258" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-28" value="数字孪生模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="65" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;" edge="1" parent="1" source="TVr60Wt9lXtjHCnUE2Si-30" target="TVr60Wt9lXtjHCnUE2Si-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-30" value="目标模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="205" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-31" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;需求匹配&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-32" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;构建&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;" edge="1" parent="1" source="TVr60Wt9lXtjHCnUE2Si-35" target="TVr60Wt9lXtjHCnUE2Si-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-35" value="零部件库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=11;" edge="1" parent="1" source="TVr60Wt9lXtjHCnUE2Si-37" target="TVr60Wt9lXtjHCnUE2Si-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="455" />
+              <mxPoint x="340" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-45" value="结&lt;br&gt;构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;" vertex="1" connectable="0" parent="TVr60Wt9lXtjHCnUE2Si-44">
+          <mxGeometry x="-0.0548" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-37" value="新数字孪生模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="205" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-41" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;需求匹配&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-42" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;重构&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-43" value="研究内容②" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;verticalAlign=top;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="300" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
