@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T03:39:49.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="TT7v1hPuBBz9jVl6hT2f" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T13:02:17.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="3ragjs60dMaWPu5xt75h" version="20.7.4" type="github">
   <diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">
-    <mxGraphModel dx="670" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-13" value="技&lt;br&gt;术&lt;br&gt;研&lt;br&gt;究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=right;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;horizontal=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="220" y="40" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TVr60Wt9lXtjHCnUE2Si-6" value="①AMR数字孪生模型的柔性重构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-6" value="①AMR数字孪生模型的快速构建与柔性重构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="50" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-7" value="②AMR数字模型与物理模型之间的&lt;br&gt;互通信和互操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-21" value="研究内容③" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TVr60Wt9lXtjHCnUE2Si-22" value="快速构建" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
