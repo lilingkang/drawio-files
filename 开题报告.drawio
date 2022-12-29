@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T12:43:01.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="pW__AA9Tv8-Z8i5w4fAb" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T12:57:28.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="sB41_WLCtkKJ7-sWVkKI" version="20.7.4" type="github">
   <diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">
     <mxGraphModel dx="809" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K52OpS8-H0kn77JSM4LT-49" value="研究内容②" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;verticalAlign=top;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-49" value="研究内容②" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;verticalAlign=top;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="147.5" y="730" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-48" value="研&lt;br&gt;究&lt;br&gt;内&lt;br&gt;容&lt;br&gt;③" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;verticalAlign=middle;strokeColor=#d79b00;align=right;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-48" value="研&lt;br&gt;究&lt;br&gt;内&lt;br&gt;容&lt;br&gt;③" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;verticalAlign=middle;strokeColor=#d79b00;align=right;" parent="1" vertex="1">
           <mxGeometry x="250" y="830" width="180" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-47" value="研&lt;br&gt;究&lt;br&gt;内&lt;br&gt;容&lt;br&gt;①" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;verticalAlign=middle;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-47" value="研&lt;br&gt;究&lt;br&gt;内&lt;br&gt;容&lt;br&gt;①" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;verticalAlign=middle;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
           <mxGeometry x="60" y="830" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-1" value="研究目标" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fillColor=none;" parent="1" vertex="1">
@@ -129,7 +129,7 @@
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVr60Wt9lXtjHCnUE2Si-37" target="TVr60Wt9lXtjHCnUE2Si-65">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TVr60Wt9lXtjHCnUE2Si-37" target="TVr60Wt9lXtjHCnUE2Si-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="500" />
@@ -137,7 +137,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-27" value="应用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K52OpS8-H0kn77JSM4LT-26">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-27" value="应用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="K52OpS8-H0kn77JSM4LT-26" vertex="1" connectable="0">
           <mxGeometry x="0.2376" y="1" relative="1" as="geometry">
             <mxPoint x="-13" as="offset" />
           </mxGeometry>
@@ -199,49 +199,49 @@
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-65" value="研究内容③" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;verticalAlign=top;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="60" y="520" width="550" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-1" value="数字孪生模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-1" value="数字孪生模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="200" y="550" width="270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-2" target="K52OpS8-H0kn77JSM4LT-4">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-2" target="K52OpS8-H0kn77JSM4LT-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-2" value="虚拟实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-2" value="虚拟实体" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="580" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-3" target="K52OpS8-H0kn77JSM4LT-14">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-3" target="K52OpS8-H0kn77JSM4LT-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-3" value="物理实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-3" value="物理实体" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="580" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-4" target="K52OpS8-H0kn77JSM4LT-6">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-4" target="K52OpS8-H0kn77JSM4LT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-4" value="多体动力学仿真" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-4" value="多体动力学仿真" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="580" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-6" target="K52OpS8-H0kn77JSM4LT-8">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-6" target="K52OpS8-H0kn77JSM4LT-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-6" value="关键零部件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-6" value="关键零部件" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="650" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-8" target="K52OpS8-H0kn77JSM4LT-10">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-8" target="K52OpS8-H0kn77JSM4LT-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-8" value="高低精度网格" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-8" value="高低精度网格" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="650" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-10" target="K52OpS8-H0kn77JSM4LT-12">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-10" target="K52OpS8-H0kn77JSM4LT-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-10" value="代理模型" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-10" value="代理模型" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="650" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-12" value="三维引擎" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-12" value="三维引擎" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="650" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-14" target="K52OpS8-H0kn77JSM4LT-8">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="K52OpS8-H0kn77JSM4LT-14" target="K52OpS8-H0kn77JSM4LT-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="630" />
@@ -249,7 +249,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-14" target="K52OpS8-H0kn77JSM4LT-10">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="K52OpS8-H0kn77JSM4LT-14" target="K52OpS8-H0kn77JSM4LT-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="630" />
@@ -257,57 +257,57 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-18" value="调整" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee6cd;" vertex="1" connectable="0" parent="K52OpS8-H0kn77JSM4LT-17">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-18" value="调整" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fee6cd;" parent="K52OpS8-H0kn77JSM4LT-17" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-14" value="传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-14" value="传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="580" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-29" target="K52OpS8-H0kn77JSM4LT-30">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-29" target="K52OpS8-H0kn77JSM4LT-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-29" target="K52OpS8-H0kn77JSM4LT-37">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-29" target="K52OpS8-H0kn77JSM4LT-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-29" value="构建数字孪生基础案例，熟悉&lt;br&gt;数字孪生模型手动构建流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-29" value="构建数字孪生基础案例，熟悉&lt;br&gt;数字孪生模型手动构建流程" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="155" y="760" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-30" target="K52OpS8-H0kn77JSM4LT-32">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-30" target="K52OpS8-H0kn77JSM4LT-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-30" value="定义模型库结构" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-30" value="定义模型库结构" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="840" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-32" target="K52OpS8-H0kn77JSM4LT-34">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-32" target="K52OpS8-H0kn77JSM4LT-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-32" value="基于模型库构建知识图谱" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-32" value="基于模型库构建知识图谱" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="910" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-34" value="解析知识图谱数据，实现&lt;br&gt;数字孪生模型自动构建" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-34" value="解析知识图谱数据，实现&lt;br&gt;数字孪生模型自动构建" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="980" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-37" target="K52OpS8-H0kn77JSM4LT-39">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-37" target="K52OpS8-H0kn77JSM4LT-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-37" value="悬架多体动力学仿真" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-37" value="悬架多体动力学仿真" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="840" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-39" target="K52OpS8-H0kn77JSM4LT-41">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-39" target="K52OpS8-H0kn77JSM4LT-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-39" value="关键零部件有限元仿真" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-39" value="关键零部件有限元仿真" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="910" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-41" target="K52OpS8-H0kn77JSM4LT-43">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K52OpS8-H0kn77JSM4LT-41" target="K52OpS8-H0kn77JSM4LT-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-41" value="代理模型训练" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-41" value="代理模型训练" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="980" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-43" value="服役阶段实时仿真" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K52OpS8-H0kn77JSM4LT-43" value="动态实时仿真" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="1050" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
