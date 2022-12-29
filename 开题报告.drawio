@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T12:11:52.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="zdXUReV4O37RVpAnHV8N" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T12:42:15.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="sjzMpD1Rw8scN4Ewe2Zf" version="20.7.4" type="github">
   <diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">
     <mxGraphModel dx="809" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K52OpS8-H0kn77JSM4LT-49" value="研究内容②" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;verticalAlign=top;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="730" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-48" value="研&lt;br&gt;究&lt;br&gt;内&lt;br&gt;容&lt;br&gt;③" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;verticalAlign=middle;strokeColor=#d79b00;align=right;" vertex="1" parent="1">
+          <mxGeometry x="250" y="830" width="180" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-47" value="研&lt;br&gt;究&lt;br&gt;内&lt;br&gt;容&lt;br&gt;①" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;verticalAlign=middle;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="830" width="180" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="TVr60Wt9lXtjHCnUE2Si-1" value="研究目标" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="10" width="150" height="200" as="geometry" />
         </mxCell>
@@ -263,25 +272,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K52OpS8-H0kn77JSM4LT-29" value="构建数字孪生基础案例，熟悉&lt;br&gt;数字孪生模型手动构建流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="750" width="180" height="50" as="geometry" />
+          <mxGeometry x="155" y="760" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K52OpS8-H0kn77JSM4LT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-30" target="K52OpS8-H0kn77JSM4LT-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K52OpS8-H0kn77JSM4LT-30" value="定义模型库结构" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="900" width="150" height="40" as="geometry" />
+          <mxGeometry x="80" y="840" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K52OpS8-H0kn77JSM4LT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-32" target="K52OpS8-H0kn77JSM4LT-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K52OpS8-H0kn77JSM4LT-32" value="基于模型库构建知识图谱" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="970" width="150" height="40" as="geometry" />
+          <mxGeometry x="80" y="910" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K52OpS8-H0kn77JSM4LT-34" value="解析知识图谱数据，实现&lt;br&gt;数字孪生模型自动构建" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1040" width="150" height="40" as="geometry" />
+          <mxGeometry x="80" y="980" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K52OpS8-H0kn77JSM4LT-37" value="定义模型库结构" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="900" width="150" height="40" as="geometry" />
+        <mxCell id="K52OpS8-H0kn77JSM4LT-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-37" target="K52OpS8-H0kn77JSM4LT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-37" value="悬架多体动力学仿真" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="840" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-39" target="K52OpS8-H0kn77JSM4LT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-39" value="关键零部件有限元仿真" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="910" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-41" target="K52OpS8-H0kn77JSM4LT-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-41" value="代理模型训练" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="980" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-43" value="服役阶段实时仿真" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1050" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
