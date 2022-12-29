@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T02:08:37.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="n7338S8xEPgJMBqPnvSU" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T03:51:09.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="TjkUro-UtJsxj2jVJjEs" version="20.7.4" type="github">
   <diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">
     <mxGraphModel dx="1173" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
         <mxCell id="9T75ixXVKP-59Q1GZMSU-6" value="MQTT客户端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1060" y="569" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9T75ixXVKP-59Q1GZMSU-7" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="9T75ixXVKP-59Q1GZMSU-7" value="知识图谱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1274.75" y="687.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9T75ixXVKP-59Q1GZMSU-2" value="MQTT客户端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
