@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T02:02:19.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="BJ2z9BCaySAt-_xqwvcp" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T12:11:52.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="zdXUReV4O37RVpAnHV8N" version="20.7.4" type="github">
   <diagram id="pGKcQqe7rzBw23-9qWBj" name="第 1 页">
     <mxGraphModel dx="809" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,6 +255,33 @@
         </mxCell>
         <mxCell id="K52OpS8-H0kn77JSM4LT-14" value="传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="580" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-29" target="K52OpS8-H0kn77JSM4LT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-29" target="K52OpS8-H0kn77JSM4LT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-29" value="构建数字孪生基础案例，熟悉&lt;br&gt;数字孪生模型手动构建流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="750" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-30" target="K52OpS8-H0kn77JSM4LT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-30" value="定义模型库结构" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="900" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K52OpS8-H0kn77JSM4LT-32" target="K52OpS8-H0kn77JSM4LT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-32" value="基于模型库构建知识图谱" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="970" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-34" value="解析知识图谱数据，实现&lt;br&gt;数字孪生模型自动构建" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1040" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K52OpS8-H0kn77JSM4LT-37" value="定义模型库结构" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="900" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
